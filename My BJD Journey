@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My BJD Journey - A Personal Data Story</title>
+    <style>
+        body {font-family: Arial, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; line-height: 1.6;}
+        h1, h2 {color: #333; text-align: center;}
+        .chapter {margin: 30px 0; padding: 15px; border: 1px solid #ddd; border-radius: 5px;}
+        .section {margin: 15px 0;}
+        ul {padding-left: 25px;}
+    </style>
+</head>
+<body>
+    <h1>My BJD Journey - A Personal Data Story</h1>
+
+    <!-- 1. Project Concept -->
+    <div class="chapter">
+        <h2>1. Project Concept</h2>
+        <p>This project will be a personal and exploratory data story about my journey into the world of Ball-Jointed Dolls (BJDs). Instead of a formal research paper, it will feel like an interactive scrapbook or diary. I will use my own experiences and the data I can easily collect to tell a story about this fascinating hobby. The goal is to make the niche world of BJDs relatable and understandable to outsiders, showing the creativity and community behind these unique art objects.</p>
+    </div>
+
+    <!-- 2. Narrative Structure -->
+    <div class="chapter">
+        <h2>2. Narrative Structure</h2>
+        <p>The story will unfold in four simple chapters, following my own learning process:</p>
+        <div class="section">
+            <strong>Chapter 1: Discovery</strong>: I will use a timeline to show how I discovered BJDs, the first dolls I saw, and the key terms I had to learn (like "MSD," "YoSD," "face-up"). This will introduce viewers to the basics in a natural way.
+        </div>
+        <div class="section">
+            <strong>Chapter 2: The Art of One Doll</strong>: I will focus on my first or favorite doll. I will break down the "data" of its creation: its cost (doll, eyes, wig, clothes, face-up), the time invested, and the artists involved. A simple interactive diagram will show these components. This makes the abstract idea of "customization" very concrete.
+        </div>
+        <div class="section">
+            <strong>Chapter 3: My Small Community</strong>: I will map my tiny part of the BJD community. Where do I interact with others? (e.g. Redbook). A network diagram will show my connections. I can also include a small gallery of photos from my friends, showing the diversity of styles within our group.
+        </div>
+        <div class="section">
+            <strong>Chapter 4: Why It Matters To Me</strong>: This is a reflective chapter. I will use a simple word cloud generated from my own notes or journal entries about my doll to express the emotional value—words like "creativity," "relaxation," "friendship."
+        </div>
+    </div>
+
+    <!-- 3. Data Sources -->
+    <div class="chapter">
+        <h2>3. Data Sources</h2>
+        <p>The data will come from my personal records, which makes the project feasible for one person:</p>
+        <ul>
+            <li>Personal Timeline: My own memory and photo dates.</li>
+            <li>Cost & Time Data: My purchase receipts, messages with artists, and personal notes.</li>
+            <li>Community Data: A list of my followers/following on social media related to BJDs. My own photo collection.</li>
+            <li>Emotional Data: My own journal or notes.</li>
+        </ul>
+    </div>
+
+    <!-- 4. Visualization Approach -->
+    <div class="chapter">
+        <h2>4. Visualization Approach</h2>
+        <ul>
+            <li>Timeline: A scroll-based timeline with pictures and short text.</li>
+            <li>Cost Breakdown: An interactive pie chart or bar chart that shows where the money went.</li>
+            <li>Network Map: A simple, clean diagram showing my connections on platforms.</li>
+            <li>Photo Gallery: A filterable gallery by doll, style, or artist.</li>
+            <li>Word Cloud: A visual representation of my feelings about the hobby.</li>
+        </ul>
+    </div>
+</body>
+</html>
